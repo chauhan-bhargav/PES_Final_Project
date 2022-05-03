@@ -10,4 +10,4 @@ If you are unable to build and compile this code, please contact me on bhargav.c
 ### Project Description, Functionality, Testing, Demo Video are all attached in the main folder. Source code and entire project is in the Final Project Folder
 
 ## Credits
-I would like to thanks Howdy Pierce (PES Prof.) alot for making this course so informative and interesting. I really learnt alot in this 4 months pursuing this course. I am thankful to Alexander Dean for explaining detailed implementation of every KL25Z components "Embedded Systems Fundamentals with ARM Cortex-M based Microcontrollers". I would also like to thanks the TAs of this course Nimish and Mukta for thier help throughout the course .
+I would like to thanks Howdy Pierce (PES Prof.) alot for making this course so informative and interesting. I really learnt alot in this 4 months pursuing this course. I am thankful to Alexander Dean for explaining detailed implementation of every KL25Z components "Embedded Systems Fundamentals with ARM Cortex-M based Microcontrollers". I would also like to thanks the TAs of this course Nimish and Mukta for their help throughout the course.
