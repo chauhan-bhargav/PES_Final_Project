@@ -1,0 +1,10 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+audio_out.c:45:10:tone_to_samples	40	static
+audio_out.c:75:6:init_DAC0	8	static
+audio_out.c:93:6:init_TPM0	8	static
+audio_out.c:118:6:init_DMA0	8	static
+audio_out.c:147:6:start_DMA0_transfer	8	static
+audio_out.c:162:6:DMA0_IRQHandler	8	static
+audio_out.c:171:6:generate_dma_buffer	16	static

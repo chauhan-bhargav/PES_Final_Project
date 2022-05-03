@@ -1,0 +1,2 @@
+sine.c:38:9:interpolate	32	static
+sine.c:45:9:fp_sin	64	static

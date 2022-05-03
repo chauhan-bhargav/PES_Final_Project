@@ -1,0 +1,3 @@
+accelerometer.c:37:5:init_mma	8	static
+accelerometer.c:45:6:i2c_test	8	static
+accelerometer.c:55:5:read_roll_angle	48	static
